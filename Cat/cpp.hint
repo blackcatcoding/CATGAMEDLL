@@ -1,0 +1,2 @@
+#define CAT_API __declspec(dllexport)
+#define CAT_API __declspec(dllimport)
